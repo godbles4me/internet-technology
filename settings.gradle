@@ -1,0 +1,5 @@
+rootProject.name = 'internet-technology'
+include 'search-lucene'
+include 'search-elasticsearch'
+include 'search-solr'
+
